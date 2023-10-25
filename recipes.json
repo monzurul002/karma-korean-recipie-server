@@ -1,0 +1,276 @@
+[
+    {
+        "id": "bcjlkdfjkfdjf1fd3",
+        "category_id": "1",
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+            "1 lb ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 can crushed tomatoes",
+            "1/2 cup red wine",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "8 oz spaghetti noodles"
+        ],
+        "cooking_method": "In a large skillet, brown the ground beef. Add onions and garlic and cook until softened. Stir in tomatoes, wine, oregano, salt, and pepper. Simmer for 30 minutes. Serve over cooked spaghetti.",
+        "rating": 4.7
+    },
+    {
+        "id": "djf98dfh5f8hd7",
+        "category_id": "1",
+        "recipe_name": "Chicken Alfredo",
+        "ingredients": [
+            "2 boneless, skinless chicken breasts",
+            "8 oz fettuccine pasta",
+            "1 cup heavy cream",
+            "1/2 cup grated Parmesan cheese",
+            "2 cloves garlic, minced",
+            "Salt and pepper to taste"
+        ],
+        "cooking_method": "Cook chicken in a skillet until no longer pink. Cook pasta according to package directions. In a separate pan, heat cream and garlic until simmering. Stir in cheese, salt, and pepper. Serve chicken and sauce over pasta.",
+        "rating": 4.8
+    },
+    {
+        "id": "sfk4kfj3k4jkd3k",
+        "category_id": "3",
+        "recipe_name": "Vegetable Stir-Fry",
+        "ingredients": [
+            "2 cups mixed vegetables (bell peppers, broccoli, carrots)",
+            "1 lb tofu, cubed",
+            "2 cloves garlic, minced",
+            "1/4 cup soy sauce",
+            "1 tablespoon sesame oil",
+            "1 teaspoon ginger, grated",
+            "Rice or noodles for serving"
+        ],
+        "cooking_method": "Stir-fry tofu and garlic in a large skillet. Add vegetables and cook until tender. Stir in soy sauce, sesame oil, and ginger. Serve over rice or noodles.",
+        "rating": 4.5
+    },
+    {
+        "id": "sfdlk4d2k3kd23k",
+        "category_id": "4",
+        "recipe_name": "Homemade Pizza",
+        "ingredients": [
+            "1 pizza dough",
+            "1/2 cup tomato sauce",
+            "1 1/2 cups shredded mozzarella cheese",
+            "Toppings of your choice (pepperoni, mushrooms, bell peppers, onions, etc.)",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano"
+        ],
+        "cooking_method": "Roll out pizza dough and spread tomato sauce on it. Sprinkle cheese, add your favorite toppings, and sprinkle with basil and oregano. Bake at 450°F for 12-15 minutes.",
+        "rating": 4.6
+    },
+    {
+        "id": "cvkmdf9sk4mfj3k",
+        "category_id": "1",
+        "recipe_name": "Chocolate Chip Cookies",
+        "ingredients": [
+            "2 1/4 cups all-purpose flour",
+            "1/2 teaspoon baking soda",
+            "1 cup unsalted butter, softened",
+            "1/2 cup granulated sugar",
+            "1 cup brown sugar",
+            "2 large eggs",
+            "2 teaspoons vanilla extract",
+            "2 cups chocolate chips"
+        ],
+        "cooking_method": "Preheat oven to 350°F. In a mixing bowl, cream butter, granulated sugar, and brown sugar. Beat in eggs and vanilla. Stir in flour and chocolate chips. Drop spoonfuls onto a baking sheet and bake for 10-12 minutes.",
+        "rating": 4.9
+    },
+    {
+        "id": "fdj4j2k34j2kj23",
+        "category_id": "2",
+        "recipe_name": "Classic Caesar Salad",
+        "ingredients": [
+            "1 head romaine lettuce",
+            "1/2 cup croutons",
+            "1/4 cup grated Parmesan cheese",
+            "1/4 cup Caesar dressing",
+            "1 clove garlic, minced",
+            "1 lemon, juiced"
+        ],
+        "cooking_method": "Tear lettuce into bite-sized pieces and place in a large bowl. Add croutons and Parmesan cheese. In a small bowl, whisk together Caesar dressing, garlic, and lemon juice. Pour over the salad and toss to coat.",
+        "rating": 4.7
+    },
+    {
+        "id": "dfjk34rjk4jk3rk4",
+        "category_id": "4",
+        "recipe_name": "Taco Tuesday",
+        "ingredients": [
+            "1 lb ground beef",
+            "1 packet taco seasoning",
+            "8 taco shells",
+            "1 cup shredded cheddar cheese",
+            "1 cup lettuce, shredded",
+            "1 tomato, diced",
+            "1/2 cup sour cream"
+        ],
+        "cooking_method": "In a skillet, brown the ground beef and stir in taco seasoning. Heat taco shells in the oven. Fill each shell with beef, cheese, lettuce, tomato, and a dollop of sour cream.",
+        "rating": 4.5
+    },
+    {
+        "id": "j3k4jdf83k5lfd4k",
+        "category_id": "2",
+        "recipe_name": "Chicken Tikka Masala",
+        "ingredients": [
+            "1 lb boneless, skinless chicken breast",
+            "1 cup plain yogurt",
+            "2 tablespoons Tikka Masala spice blend",
+            "1 can tomato sauce",
+            "1/2 cup heavy cream",
+            "2 tablespoons butter",
+            "2 cups cooked rice"
+        ],
+        "cooking_method": "Marinate chicken in yogurt and Tikka Masala spice blend. Grill or bake the chicken until cooked through. In a separate pan, heat tomato sauce, heavy cream, and butter. Serve chicken and sauce over cooked rice.",
+        "rating": 4.8
+    },
+    {
+        "id": "fdsj3l4jlkf4dskl",
+        "category_id": "4",
+        "recipe_name": "Sweet and Sour Pork",
+        "ingredients": [
+            "1 lb pork tenderloin, cubed",
+            "1 green bell pepper, sliced",
+            "1 red bell pepper, sliced",
+            "1 onion, sliced",
+            "1 cup pineapple chunks",
+            "1/2 cup sweet and sour sauce",
+            "Cooked rice for serving"
+        ],
+        "cooking_method": "In a large skillet, brown pork. Add peppers, onion, and pineapple. Stir in sweet and sour sauce. Cook until heated through. Serve over cooked rice.",
+        "rating": 4.6
+    },
+    {
+        "id": "dflk34j5lk3j4lk3",
+        "category_id": "5",
+        "recipe_name": "Chicken Noodle Soup",
+        "ingredients": [
+            "1 lb chicken breast, cooked and shredded",
+            "8 cups chicken broth",
+            "2 cups egg noodles",
+            "2 carrots, sliced",
+            "2 celery stalks, sliced",
+            "1 onion, chopped",
+            "2 cloves garlic, minced"
+        ],
+        "cooking_method": "In a large pot, combine chicken broth, carrots, celery, onion, and garlic. Simmer until vegetables are tender. Add cooked chicken and egg noodles. Simmer until noodles are cooked.",
+        "rating": 4.9
+    },
+    {
+        "id": "sdfj43lkj23lkj23",
+        "category_id": "6",
+        "recipe_name": "Lasagna",
+        "ingredients": [
+            "1 lb ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 can tomato sauce",
+            "1 can crushed tomatoes",
+            "9 lasagna noodles",
+            "2 cups ricotta cheese",
+            "2 cups mozzarella cheese"
+        ],
+        "cooking_method": "In a skillet, brown ground beef, onions, and garlic. Stir in tomato sauce and crushed tomatoes. In a baking dish, layer noodles, beef mixture, ricotta, and mozzarella. Repeat and bake at 375°F for 30 minutes.",
+        "rating": 4.7
+    },
+    {
+        "id": "sdfjk234ljk4jlj23",
+        "category_id": "5",
+        "recipe_name": "Guacamole",
+        "ingredients": [
+            "3 avocados, peeled and mashed",
+            "1 tomato, diced",
+            "1 onion, chopped",
+            "1/4 cup cilantro, chopped",
+            "2 cloves garlic, minced",
+            "1 lime, juiced",
+            "Salt and pepper to taste"
+        ],
+        "cooking_method": "In a bowl, combine avocados, tomato, onion, cilantro, and garlic. Add lime juice, salt, and pepper. Mix well and serve with tortilla chips.",
+        "rating": 4.8
+    },
+    {
+        "id": "dfk34j5lk3jkj23j",
+        "category_id": "3",
+        "recipe_name": "Apple Pie",
+        "ingredients": [
+            "6 cups sliced apples",
+            "1 cup granulated sugar",
+            "1 teaspoon cinnamon",
+            "1/2 teaspoon nutmeg",
+            "2 pie crusts",
+            "2 tablespoons butter",
+            "1 tablespoon milk",
+            "1 tablespoon sugar (for topping)"
+        ],
+        "cooking_method": "In a large bowl, combine apples, granulated sugar, cinnamon, and nutmeg. Place one pie crust in a pie dish and add the apple mixture. Dot with butter. Cover with the second pie crust and crimp the edges. Brush with milk and sprinkle with sugar. Bake at 425°F for 45-50 minutes.",
+        "rating": 4.6
+    },
+    {
+        "id": "slfk4j2lk3k4jlk4",
+        "category_id": "5",
+        "recipe_name": "Beef and Broccoli Stir-Fry",
+        "ingredients": [
+            "1 lb flank steak, sliced thinly",
+            "2 cups broccoli florets",
+            "1/2 cup soy sauce",
+            "1/4 cup brown sugar",
+            "2 cloves garlic, minced",
+            "2 tablespoons cornstarch",
+            "Cooked rice for serving"
+        ],
+        "cooking_method": "In a bowl, whisk together soy sauce, brown sugar, garlic, and cornstarch. In a skillet, stir-fry beef until browned. Add broccoli and sauce. Cook until sauce thickens. Serve over cooked rice.",
+        "rating": 4.8
+    },
+    {
+        "id": "sdj4kl23k4jlj4l3",
+        "category_id": "6",
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": [
+            "2 cups shredded cooked chicken",
+            "1 cup shredded cheddar cheese",
+            "1 cup diced onion",
+            "1 can enchilada sauce",
+            "8 small flour tortillas",
+            "1/2 cup sour cream",
+            "1/4 cup sliced black olives"
+        ],
+        "cooking_method": "In a bowl, mix chicken, 1/2 cup cheese, and 1/2 cup onion. Fill tortillas and roll up. Place in a baking dish and pour enchilada sauce over them. Sprinkle with remaining cheese and onion. Bake at 350°F for 20 minutes. Serve with sour cream and olives.",
+        "rating": 4.7
+    },
+    {
+        "id": "slfjk234lkj23lk3",
+        "category_id": "4",
+        "recipe_name": "Minestrone Soup",
+        "ingredients": [
+            "1 cup diced carrots",
+            "1 cup diced celery",
+            "1 cup diced onion",
+            "2 cloves garlic, minced",
+            "1 can diced tomatoes",
+            "1 can kidney beans, drained and rinsed",
+            "8 cups vegetable broth",
+            "1 cup small pasta"
+        ],
+        "cooking_method": "In a large pot, sauté carrots, celery, onion, and garlic. Add tomatoes, beans, and vegetable broth. Simmer for 20 minutes. Add pasta and cook until tender.",
+        "rating": 4.5
+    },
+    {
+        "id": "djk23lk4j2lk34lk",
+        "category_id": "1",
+        "recipe_name": "Paneer Tikka",
+        "ingredients": [
+            "2 cups paneer (cottage cheese) cubes",
+            "1/2 cup yogurt",
+            "1 tablespoon Tikka Masala spice blend",
+            "1 bell pepper, sliced",
+            "1 onion, sliced",
+            "1 lemon, juiced",
+            "Wooden skewers, soaked in water"
+        ],
+        "cooking_method": "In a bowl, mix yogurt and Tikka Masala spice blend. Thread paneer, bell pepper, and onion onto skewers. Grill until charred. Drizzle with lemon juice and serve.",
+        "rating": 4.9
+    }
+]
