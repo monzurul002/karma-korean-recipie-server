@@ -1,52 +1,56 @@
-{
-    "Chefs": [
-        {
-            "id": 1,
-            "Chef Name": "John Smith",
-            "Years of experience": 10,
-            "Number of recipes": 50,
-            "Likes number": 1000,
-            "img": "https://i.ibb.co/WWvZY97/1.jpg"
-        },
-        {
-            "id": 2,
-            "Chef Name": "Emily Johnson",
-            "Years of experience": 8,
-            "Number of recipes": 65,
-            "Likes number": 1200,
-            "img": "https://i.ibb.co/pxHqDNB/2.jpg"
-        },
-        {
-            "id": 3,
-            "Chef Name": "Michael Brown",
-            "Years of experience": 15,
-            "Number of recipes": 75,
-            "Likes number": 1500,
-            "img": "https://i.ibb.co/t8XXYzh/3.jpg"
-        },
-        {
-            "id": 4,
-            "Chef Name": "Sophia Wilson",
-            "Years of experience": 5,
-            "Number of recipes": 40,
-            "Likes number": 800,
-            "img": "https://i.ibb.co/FBZc1yW/4.jpg"
-        },
-        {
-            "id": 5,
-            "Chef Name": "Daniel Lee",
-            "Years of experience": 12,
-            "Number of recipes": 60,
-            "Likes number": 1100,
-            "img": " https://i.ibb.co/VJpQwBP/5.jpg"
-        },
-        {
-            "id": 6,
-            "Chef Name": "Olivia Davis",
-            "Years of experience": 7,
-            "Number of recipes": 55,
-            "Likes number": 950,
-            "img": "https://i.ibb.co/pbc31cG/6.jpg"
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "chef_Name": "John Smith",
+        "years_Experience": 10,
+        "number_recipes": 50,
+        "likes_number": 1000,
+        "img": "https://i.ibb.co/WWvZY97/1.jpg",
+        "description": "John Smith is a Korean chef with a decade of experience in the culinary world. He has created and curated a repertoire of 50 unique Korean recipes, each a culinary masterpiece. John's dishes have garnered the admiration of food enthusiasts worldwide, accumulating an impressive 1000 likes on his culinary creations. With a rich culinary background, John brings innovation and a deep appreciation for Korean flavors to every dish he crafts."
+    },
+    {
+        "id": 2,
+        "chef_Name": "Emily Johnson",
+        "years_Experience": 8,
+        "number_recipes": 65,
+        "likes_number": 1200,
+        "img": "https://i.ibb.co/pxHqDNB/2.jpg",
+        "description": "Emily Johnson, a talented Korean chef, has 8 years of culinary experience under her belt. Her culinary journey has led to the creation of 65 exquisite Korean recipes that have garnered an impressive 1200 likes from food lovers. Her passion for Korean cuisine shines through her creations, and her dedication to perfecting the art of Korean cooking is evident in every dish she presents."
+    },
+    {
+        "id": 3,
+        "chef_Name": "Michael Brown",
+        "years_Experience": 15,
+        "number_recipes": 75,
+        "likes_number": 1500,
+        "img": "https://i.ibb.co/t8XXYzh/3.jpg",
+        "description": "Michael Brown is a Korean chef with a remarkable 15 years of experience in the kitchen. He is the mastermind behind 75 delectable Korean recipes, adored by 1500 enthusiasts of Korean cuisine. His extensive experience allows him to blend tradition and innovation seamlessly."
+    },
+    {
+        "id": 4,
+        "chef_Name": "Sophia Wilson",
+        "years_Experience": 5,
+        "number_recipes": 40,
+        "likes_number": 800,
+        "img": "https://i.ibb.co/FBZc1yW/4.jpg",
+        "description": "With 5 years of experience, Sophia Wilson is a promising Korean chef who has crafted 40 mouthwatering Korean dishes. Her creations have earned the appreciation of 800 food lovers. Sophia's journey is marked by creativity and a love for Korean flavors, reflected in her recipes."
+    },
+    {
+        "id": 5,
+        "chef_Name": "Daniel Lee",
+        "years_Experience": 12,
+        "number_recipes": 60,
+        "likes_number": 1100,
+        "img": "https://i.ibb.co/VJpQwBP/5.jpg",
+        "description": "Daniel Lee, a Korean chef with 12 years of experience, has showcased his culinary expertise through 60 exquisite Korean recipes. His dishes have gained admiration from 1100 food enthusiasts. His mastery lies in the fusion of tradition and innovation, creating a harmonious blend of Korean flavors."
+    },
+    {
+        "id": 6,
+        "chef_Name": "Olivia Davis",
+        "years_Experience": 7,
+        "number_recipes": 55,
+        "likes_number": 950,
+        "img": "https://i.ibb.co/pbc31cG/6.jpg",
+        "description": "Olivia Davis, a Korean chef with 7 years of experience, has crafted 55 delightful Korean recipes that have earned the admiration of 950 food enthusiasts. Her culinary journey is marked by creativity and a deep passion for Korean flavors, evident in every dish she creates."
+    }
+]
